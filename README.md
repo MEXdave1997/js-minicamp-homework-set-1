@@ -39,3 +39,6 @@ Our part-time and full-time courses are 13 intense weeks of focused study on the
 Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.  We also provide career support both during and after the course to help you succeed.  We are committed to your success.
 
 For more information visit: https://www.lambdaschool.com
+
+#### Completed Date: March 14, 2017
+The homework assignment repo can be found [here](https://github.com/SunJieMing/js-minicamp-homework-1).
